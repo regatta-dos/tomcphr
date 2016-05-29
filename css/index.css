@@ -1,0 +1,18 @@
+body {
+	width: 100%;
+	background: #F5FAFA;
+}
+
+#profile {
+	border: 1px solid #000;
+	width: 300px;
+	height: 300px;
+	margin-top: 40px;
+}
+
+.center {
+	width: 60%;
+	height: 400px;
+	margin: 0 auto;
+	text-align: center;
+}
