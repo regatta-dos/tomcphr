@@ -1,11 +1,11 @@
 body {
-	background: #F5FAFA;
+    background: #F5FAFA;
 }
 
 #container {
-	width: 300px;
-	height: 400px;
-	width: 100%;
+    width: 300px;
+    height: 400px;
+    width: 100%;
     height: auto;
     bottom: 0px;
     top: 0px;
@@ -14,8 +14,8 @@ body {
 }
 
 .center {
-	position: absolute;
-	top: 50%;
+    position: absolute;
+    top: 50%;
     left: 50%;
 }
 
